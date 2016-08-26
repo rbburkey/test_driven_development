@@ -11,7 +11,7 @@
 # In integer math, there **are no fractions**. So if you are using
 # integer literals, you will be using integer math, which means, for
 # example...
-#
+# 
 #    1 / 2 => 0
 #
 # In floating point math, there **are** fractions. So...
